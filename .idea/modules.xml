@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplenlpscala.iml" filepath="$PROJECT_DIR$/.idea/modules/simplenlpscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplenlpscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/simplenlpscala-build.iml" />
     </modules>
   </component>
 </project>
